@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Nejra Gutić 👋
 
-<!--
-**nejra-gutic/nejra-gutic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student at Istanbul Technical University  
+🤖 Focused on AI, Computer Vision, and RAG systems  
 
-Here are some ideas to get you started:
+🔹 Pose-based Action Recognition  
+🔹 Deep Learning with PyTorch  
+🔹 AI-powered applications (RAG, chatbots)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Selected projects:
+- Pose-Based Dance Genre Classification
+- AI PDF Chatbot (LangChain + FAISS)
+- Database Management System (Web + SQL)
+
+📫 How to reach me:
+- LinkedIn: https://www.linkedin.com/in/nejra-gutic
