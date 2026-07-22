@@ -1,16 +1,28 @@
-Hi, I'm Nejra Gutić 👋
+# Hi, I'm Nejra Gutić 👋
 
-🎓 Computer Engineering student at Istanbul Technical University  
-🤖 Focused on AI, Computer Vision, and RAG systems  
+🎓 B.Sc. in Computer Engineering – Istanbul Technical University
 
-🔹 Pose-based Action Recognition  
-🔹 Deep Learning with PyTorch  
-🔹 AI-powered applications (RAG, chatbots)  
+💡 Interested in NLP, Semantic Search, LLM Applications, and Machine Learning.
 
-📌 Selected projects:
-- Pose-Based Dance Genre Classification
+## 🚀 Featured Projects
+
+- Geo-Semantic POI Retrieval System
+- Violence Detection in Surveillance Videos
 - AI PDF Chatbot (LangChain + FAISS)
-- Database Management System (Web + SQL)
+- Pose-Based Dance Genre Classification
 
-📫 How to reach me:
-- LinkedIn: https://www.linkedin.com/in/nejra-gutic
+## 🛠️ Tech Stack
+
+Python • PyTorch • Scikit-learn • LangChain
+Sentence Transformers • Streamlit
+SQL • Git
+
+## 🌱 Currently Learning
+
+- LLM Agents
+- MLOps
+- AI System Design
+
+## 📫 Connect
+
+LinkedIn: www.linkedin.com/in/nejra-gutic
