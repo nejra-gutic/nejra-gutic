@@ -2,25 +2,26 @@
 
 🎓 B.Sc. in Computer Engineering – Istanbul Technical University
 
-💡 Interested in NLP, Semantic Search, LLM Applications, and Machine Learning.
+💡 Interested in AI, Backend Development, Semantic Search, LLM Applications, and Machine Learning.
 
 ## 🚀 Featured Projects
 
 - Geo-Semantic POI Retrieval System
 - Violence Detection in Surveillance Videos
+- Task Tracker (Spring Boot + React)
 - AI PDF Chatbot (LangChain + FAISS)
 - Pose-Based Dance Genre Classification
 
 ## 🛠️ Tech Stack
 
-Python • PyTorch • Scikit-learn • LangChain
-Sentence Transformers • Streamlit
-SQL • Git
+Java • Python • Spring Boot • React • PostgreSQL • PyTorch •
+Scikit-learn • LangChain • Sentence Transformers •
+Git • Docker • Streamlit
 
 ## 🌱 Currently Learning
 
 - LLM Agents
-- MLOps
+- Spring Boot & Backend Development
 - AI System Design
 
 ## 📫 Connect
